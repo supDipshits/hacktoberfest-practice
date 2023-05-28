@@ -1957,6 +1957,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shubham Yadav](https://github.com/ShubhamYadav7063)
   - [Shubhankar Sharma](https://github.com/shubhankarsharma876)
   - [Shubhra Suman](https://github.com/ShubhraSuman)
+    [Shubhraneel Gupta](https://github.com/supDipshits)
   - [Shweta Ranjan Anand](https://github.com/Shweta200126)
   - [Shyam](https://github.com/XShyam)
   - [Shyam Sutar](https://github.com/shyamsutar)
